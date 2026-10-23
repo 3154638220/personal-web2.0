@@ -1,0 +1,16 @@
+{
+  "url": "https://www.qianianxy.cn",
+  "date": "2026-10-22T09:00:50.638Z",
+  "publicArticles": 84,
+  "checks": [
+    "Public DNS, valid HTTPS and exact deployed home HTML",
+    "Exact new CSS, JavaScript and sharing image; fingerprinted asset caching",
+    "Apex domain redirects to canonical HTTPS",
+    "Unpublished source and unknown paths return 404",
+    "Production home: mobile/tablet/desktop, both themes and final screenshots",
+    "Production archive and full-text search",
+    "Production formulas, code controls and article TOC"
+  ],
+  "errors": [],
+  "failed": []
+}

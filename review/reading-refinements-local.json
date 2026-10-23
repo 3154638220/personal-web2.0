@@ -1,0 +1,11 @@
+{
+  "date": "2026-10-22T13:19:32.473Z",
+  "base": "http://127.0.0.1:8082",
+  "results": [
+    "Keyboard copy writes exact code; icon changes to check, survives language switch and resets",
+    "Clipboard rejection shows error icon; retry with legacy fallback succeeds without visible text",
+    "TOC stays left on desktop; mobile disclosure and anchors work; four widths have no overflow",
+    "83 public articles; hidden article URL and source return 404; archive/search/sitemap contain no hidden article"
+  ],
+  "errors": []
+}

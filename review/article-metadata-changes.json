@@ -1,0 +1,1621 @@
+[
+  {
+    "file": "2-SAT.md",
+    "before": {
+      "title": "2-SAT",
+      "tags": [
+        "2-SAT",
+        "Tarjan"
+      ],
+      "categories": "笔记"
+    },
+    "after": {
+      "title": "2-SAT：蕴含图建模与 Tarjan 算法",
+      "tags": [
+        "2-SAT",
+        "强连通分量",
+        "Tarjan"
+      ],
+      "categories": "笔记"
+    }
+  },
+  {
+    "file": "2023蓝桥杯国赛pya组.md",
+    "before": {
+      "title": "第十四届蓝桥杯国赛 Python A组 解题报告",
+      "tags": [
+        "蓝桥杯",
+        "解题报告"
+      ],
+      "categories": "题解"
+    },
+    "after": {
+      "title": "2023 蓝桥杯国赛 Python A 组题解",
+      "tags": [
+        "蓝桥杯",
+        "Python",
+        "动态规划",
+        "容斥原理",
+        "背包 DP"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "2023蓝桥杯省赛pya组.md",
+    "before": {
+      "title": "2023 蓝桥杯省赛 Python A组 解题报告",
+      "tags": "蓝桥杯",
+      "categories": "题解"
+    },
+    "after": {
+      "title": "2023 蓝桥杯省赛 Python A 组题解",
+      "tags": [
+        "蓝桥杯",
+        "Python",
+        "贪心",
+        "单调队列",
+        "动态规划",
+        "Manacher"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "2024蓝桥杯国赛pyb.md",
+    "before": {
+      "title": "第十五届蓝桥杯国赛 Python B组 解题报告",
+      "tags": "蓝桥杯",
+      "categories": "题解"
+    },
+    "after": {
+      "title": "2024 蓝桥杯国赛 Python B 组题解",
+      "tags": [
+        "蓝桥杯",
+        "Python",
+        "数论",
+        "二分答案",
+        "矩阵快速幂",
+        "贪心"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "2024蓝桥杯省赛pya组.md",
+    "before": {
+      "title": "2024 蓝桥杯省赛 python A组 解题报告",
+      "tags": [
+        "蓝桥杯",
+        "解题报告"
+      ],
+      "categories": "题解"
+    },
+    "after": {
+      "title": "2024 蓝桥杯省赛 Python A 组题解",
+      "tags": [
+        "蓝桥杯",
+        "Python",
+        "二分答案",
+        "动态规划",
+        "最大生成树",
+        "字典树"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "2024蓝桥杯省赛pyb组.md",
+    "before": {
+      "title": "2024 蓝桥杯省赛 python B组 解题报告",
+      "tags": [
+        "蓝桥杯",
+        "解题报告"
+      ],
+      "categories": "题解"
+    },
+    "after": {
+      "title": "2024 蓝桥杯省赛 Python B 组题解",
+      "tags": [
+        "蓝桥杯",
+        "Python",
+        "枚举",
+        "容斥原理"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "25实变函数期中.md",
+    "before": {
+      "title": "BNU Zhuhai 25春 实变函数期中考试",
+      "tags": [
+        "数学",
+        "原题"
+      ],
+      "categories": "题解"
+    },
+    "after": {
+      "title": "2025 年春季北师大珠海校区实变函数期中试题与解答",
+      "tags": [
+        "实变函数",
+        "集合论",
+        "测度论",
+        "考试题解"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "25蓝桥杯培训第二讲.md",
+    "before": {
+      "title": "第二讲：搜索与优化技巧",
+      "tags": [
+        "搜索",
+        "入门"
+      ],
+      "categories": "题解"
+    },
+    "after": {
+      "title": "2025 蓝桥杯培训第二讲：搜索与优化技巧",
+      "tags": [
+        "蓝桥杯",
+        "搜索",
+        "DFS",
+        "BFS",
+        "记忆化搜索",
+        "折半搜索"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "ABC362E.md",
+    "before": {
+      "title": "ABC362E Count Arithmetic Subsequences",
+      "tags": "dp",
+      "categories": "题解"
+    },
+    "after": {
+      "title": "ABC362E Count Arithmetic Subsequences 题解",
+      "tags": [
+        "动态规划",
+        "计数 DP",
+        "等差数列"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "ABC366F.md",
+    "before": {
+      "title": "ABC366F Maximum Composition",
+      "tags": "dp",
+      "categories": "题解"
+    },
+    "after": {
+      "title": "ABC366F Maximum Composition 题解",
+      "tags": [
+        "背包 DP",
+        "贪心",
+        "排序"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "ABC367D.md",
+    "before": {
+      "title": "ABC367D Pedometer",
+      "tags": "前缀和",
+      "categories": "题解"
+    },
+    "after": {
+      "title": "ABC367D Pedometer 题解",
+      "tags": [
+        "前缀和",
+        "同余",
+        "计数"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "ABC367E.md",
+    "before": {
+      "title": "ABC367E Permute K times",
+      "tags": "倍增",
+      "categories": "题解"
+    },
+    "after": {
+      "title": "ABC367E Permute K times 题解",
+      "tags": [
+        "倍增"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "ABC367F.md",
+    "before": {
+      "title": "ABC367F Rearrange Query",
+      "tags": "随机化",
+      "categories": "题解"
+    },
+    "after": {
+      "title": "ABC367F Rearrange Query 题解",
+      "tags": [
+        "随机化",
+        "哈希",
+        "前缀和"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "ARC181C.md",
+    "before": {
+      "title": "ARC181C Row and Column Order",
+      "tags": "构造",
+      "categories": "题解"
+    },
+    "after": {
+      "title": "ARC181C Row and Column Order 题解",
+      "tags": [
+        "构造",
+        "矩阵"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "ARC181D.md",
+    "before": {
+      "title": "ARC181D Prefix Bubble Sort",
+      "tags": [
+        "树状数组",
+        "逆序对",
+        "优先队列"
+      ],
+      "categories": "题解"
+    },
+    "after": {
+      "title": "ARC181D Prefix Bubble Sort 题解",
+      "tags": [
+        "树状数组",
+        "逆序对",
+        "优先队列"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "CCPC2024网络赛D.md",
+    "before": {
+      "title": "CCPC2024网络赛 D 编码器-解码器",
+      "tags": [
+        "dp",
+        "区间dp"
+      ],
+      "categories": "题解"
+    },
+    "after": {
+      "title": "2024 CCPC 网络赛 D 编码器-解码器题解",
+      "tags": [
+        "区间 DP",
+        "字符串",
+        "计数 DP"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "CCPC2024网络赛E.md",
+    "before": {
+      "title": "CCPC2024网络赛 E 随机过程",
+      "tags": "期望",
+      "categories": "题解"
+    },
+    "after": {
+      "title": "2024 CCPC 网络赛 E 随机过程题解",
+      "tags": [
+        "概率期望",
+        "字典树",
+        "计数"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "CF1132F.md",
+    "before": {
+      "title": "CF1132F Clear the String",
+      "tags": [
+        "dp",
+        "区间dp"
+      ],
+      "categories": ""
+    },
+    "after": {
+      "title": "CF1132F Clear the String 题解",
+      "tags": [
+        "区间 DP",
+        "字符串"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "CF1187E.md",
+    "before": {
+      "title": "CF1187E Tree Painting",
+      "tags": [
+        "dp",
+        "换根dp"
+      ],
+      "categories": "题解"
+    },
+    "after": {
+      "title": "CF1187E Tree Painting 题解",
+      "tags": [
+        "换根 DP",
+        "树形 DP"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "CF1200E.md",
+    "before": {
+      "title": "CF1200E Compress Words",
+      "tags": "KMP",
+      "categories": "题解"
+    },
+    "after": {
+      "title": "CF1200E Compress Words 题解",
+      "tags": [
+        "KMP",
+        "字符串"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "CF1223F.md",
+    "before": {
+      "title": "CF1223F Stack Exterminable Arrays",
+      "tags": "哈希",
+      "categories": "题解"
+    },
+    "after": {
+      "title": "CF1223F Stack Exterminable Arrays 题解",
+      "tags": [
+        "哈希",
+        "栈",
+        "计数"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "CF126B.md",
+    "before": {
+      "title": "CF126B Password",
+      "tags": [
+        "kmp",
+        "exkmp"
+      ],
+      "categories": "题解"
+    },
+    "after": {
+      "title": "CF126B Password 题解",
+      "tags": [
+        "KMP",
+        "Z 函数",
+        "字符串"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "CF1618G.md",
+    "before": {
+      "title": "题解 CF1618G Trader Problem",
+      "tags": [
+        "并查集"
+      ],
+      "categories": "题解"
+    },
+    "after": {
+      "title": "CF1618G Trader Problem 题解",
+      "tags": [
+        "并查集",
+        "离线处理",
+        "前缀和",
+        "二分查找"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "CF1627D.md",
+    "before": {
+      "title": "CF1627D Not Adding",
+      "tags": "数论",
+      "categories": "题解"
+    },
+    "after": {
+      "title": "CF1627D Not Adding 题解",
+      "tags": [
+        "数论",
+        "最大公约数",
+        "枚举"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "CF1971G.md",
+    "before": {
+      "title": "题解 CF1971G XOUR",
+      "tags": [
+        "位运算",
+        "STL"
+      ],
+      "categories": "题解"
+    },
+    "after": {
+      "title": "CF1971G XOUR 题解",
+      "tags": [
+        "位运算",
+        "排序",
+        "构造"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "CF1971H.md",
+    "before": {
+      "title": "题解 CF1971H ±1",
+      "tags": [
+        "2-SAT"
+      ],
+      "categories": "题解"
+    },
+    "after": {
+      "title": "CF1971H ±1 题解",
+      "tags": [
+        "2-SAT",
+        "强连通分量",
+        "Tarjan"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "CF1982C.md",
+    "before": {
+      "title": "CF1982C Boring Day",
+      "tags": [
+        "dp",
+        "双指针"
+      ],
+      "categories": "题解"
+    },
+    "after": {
+      "title": "CF1982C Boring Day 题解",
+      "tags": [
+        "动态规划",
+        "双指针"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "CF1982D.md",
+    "before": {
+      "title": "CF1982D Beauty of the mountains",
+      "tags": [
+        "数论",
+        "前缀和"
+      ],
+      "categories": "题解"
+    },
+    "after": {
+      "title": "CF1982D Beauty of the mountains 题解",
+      "tags": [
+        "数论",
+        "前缀和",
+        "裴蜀定理",
+        "最大公约数"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "CF1986E.md",
+    "before": {
+      "title": "CF1986E Beautiful Array",
+      "tags": [
+        "贪心",
+        "前缀和",
+        "dp"
+      ],
+      "categories": "题解"
+    },
+    "after": {
+      "title": "CF1986E Beautiful Array 题解",
+      "tags": [
+        "贪心",
+        "排序",
+        "前缀和",
+        "同余"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "CF1986F.md",
+    "before": {
+      "title": "CF1986F Non-academic Problem",
+      "tags": [
+        "Tarjan",
+        "割点和桥",
+        "图论"
+      ],
+      "categories": "题解"
+    },
+    "after": {
+      "title": "CF1986F Non-academic Problem 题解",
+      "tags": [
+        "Tarjan",
+        "桥",
+        "图论"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "CF1989D.md",
+    "before": {
+      "title": "CF1989D Smithing Skill",
+      "tags": "dp",
+      "categories": "题解"
+    },
+    "after": {
+      "title": "CF1989D Smithing Skill 题解",
+      "tags": [
+        "动态规划",
+        "贪心",
+        "预处理"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "CF1993D.md",
+    "before": {
+      "title": "CF1993D Med-imize",
+      "tags": [
+        "dp",
+        "二分答案"
+      ],
+      "categories": "题解"
+    },
+    "after": {
+      "title": "CF1993D Med-imize 题解",
+      "tags": [
+        "动态规划",
+        "二分答案"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "CF1997F.md",
+    "before": {
+      "title": "CF1997F Chips on a Line",
+      "tags": "dp",
+      "categories": "题解"
+    },
+    "after": {
+      "title": "CF1997F Chips on a Line 题解",
+      "tags": [
+        "背包 DP",
+        "计数 DP",
+        "斐波那契数列"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "CF1998C.md",
+    "before": {
+      "title": "CF1998C Perform Operations to Maximize Score",
+      "tags": "二分答案",
+      "categories": "题解"
+    },
+    "after": {
+      "title": "CF1998C Perform Operations to Maximize Score 题解",
+      "tags": [
+        "二分答案",
+        "贪心",
+        "排序"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "CF19B.md",
+    "before": {
+      "title": "CF19B Checkout Assistant",
+      "tags": "dp",
+      "categories": "题解"
+    },
+    "after": {
+      "title": "CF19B Checkout Assistant 题解",
+      "tags": [
+        "背包 DP"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "CF2001C.md",
+    "before": {
+      "title": "CF2001C Guess The Tree",
+      "tags": "交互题",
+      "categories": "题解"
+    },
+    "after": {
+      "title": "CF2001C Guess The Tree 题解",
+      "tags": [
+        "交互题",
+        "二分查找",
+        "树"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "CF2001D.md",
+    "before": {
+      "title": "CF2001D Longest Max Min Subsequence",
+      "tags": [
+        "优先队列",
+        "构造"
+      ],
+      "categories": "题解"
+    },
+    "after": {
+      "title": "CF2001D Longest Max Min Subsequence 题解",
+      "tags": [
+        "贪心",
+        "优先队列",
+        "构造"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "CF2003D2.md",
+    "before": {
+      "title": "CF2003D2 Turtle and a MEX Problem (Hard Version)",
+      "tags": [
+        "dp",
+        "拓扑排序",
+        "图论"
+      ],
+      "categories": "题解"
+    },
+    "after": {
+      "title": "CF2003D2 Turtle and a MEX Problem (Hard Version) 题解",
+      "tags": [
+        "DAG DP",
+        "拓扑排序",
+        "MEX"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "CF208E.md",
+    "before": {
+      "title": "CF208E Blood Cousins",
+      "tags": "树上启发式合并",
+      "categories": "题解"
+    },
+    "after": {
+      "title": "CF208E Blood Cousins 题解",
+      "tags": [
+        "树上启发式合并",
+        "倍增",
+        "离线处理"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "CF242E.md",
+    "before": {
+      "title": "CF242E XOR on Segment",
+      "tags": "线段树",
+      "categories": "题解"
+    },
+    "after": {
+      "title": "CF242E XOR on Segment 题解",
+      "tags": [
+        "线段树",
+        "位运算",
+        "懒标记"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "CF2B.md",
+    "before": {
+      "title": "CF2B The least round way",
+      "tags": "dp",
+      "categories": "题解"
+    },
+    "after": {
+      "title": "CF2B The least round way 题解",
+      "tags": [
+        "动态规划",
+        "质因数分解",
+        "路径还原"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "CF337D.md",
+    "before": {
+      "title": "CF337D Book of Evil",
+      "tags": [
+        "dp",
+        "树形dp"
+      ],
+      "categories": "题解"
+    },
+    "after": {
+      "title": "CF337D Book of Evil 题解",
+      "tags": [
+        "换根 DP",
+        "树形 DP"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "CF372C.md",
+    "before": {
+      "title": "CF372C Watching Fireworks is Fun",
+      "tags": [
+        "dp",
+        "单调队列"
+      ],
+      "categories": "题解"
+    },
+    "after": {
+      "title": "CF372C Watching Fireworks is Fun 题解",
+      "tags": [
+        "动态规划",
+        "单调队列",
+        "滚动数组"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "CF383C.md",
+    "before": {
+      "title": "CF383C Propagating tree",
+      "tags": "线段树",
+      "categories": "题解"
+    },
+    "after": {
+      "title": "CF383C Propagating tree 题解",
+      "tags": [
+        "线段树",
+        "DFS 序",
+        "懒标记"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "CF432D.md",
+    "before": {
+      "title": "CF432D Prefixes and Suffixes",
+      "tags": [
+        "exkmp",
+        "树状数组"
+      ],
+      "categories": "题解"
+    },
+    "after": {
+      "title": "CF432D Prefixes and Suffixes 题解",
+      "tags": [
+        "Z 函数",
+        "树状数组",
+        "字符串"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "CF438D.md",
+    "before": {
+      "title": "CF438D The Child and Sequence",
+      "tags": [
+        "线段树",
+        "势能线段树"
+      ],
+      "categories": "题解"
+    },
+    "after": {
+      "title": "CF438D The Child and Sequence 题解",
+      "tags": [
+        "线段树",
+        "均摊分析"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "CF600E.md",
+    "before": {
+      "title": "CF600E Lomsat gelral",
+      "tags": "树上启发式合并",
+      "categories": "题解"
+    },
+    "after": {
+      "title": "CF600E Lomsat gelral 题解",
+      "tags": [
+        "树上启发式合并",
+        "树"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "CF767C.md",
+    "before": {
+      "title": "CF767C Garland",
+      "tags": [
+        "dp",
+        "树形dp"
+      ],
+      "categories": "题解"
+    },
+    "after": {
+      "title": "CF767C Garland 题解",
+      "tags": [
+        "树形 DP",
+        "树"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "CF837D.md",
+    "before": {
+      "title": "CF837D Round Subset",
+      "tags": [
+        "dp",
+        "背包"
+      ],
+      "categories": "题解"
+    },
+    "after": {
+      "title": "CF837D Round Subset 题解",
+      "tags": [
+        "背包 DP",
+        "质因数分解"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "CF920F.md",
+    "before": {
+      "title": "CF920F SUM and REPLACE",
+      "tags": [
+        "树状数组",
+        "并查集"
+      ],
+      "categories": "题解"
+    },
+    "after": {
+      "title": "CF920F SUM and REPLACE 题解",
+      "tags": [
+        "树状数组",
+        "并查集",
+        "约数",
+        "均摊分析"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "KMP.md",
+    "before": {
+      "title": "KMP",
+      "tags": "KMP",
+      "categories": "笔记"
+    },
+    "after": {
+      "title": "KMP 字符串匹配：前缀函数与算法实现",
+      "tags": [
+        "KMP",
+        "字符串",
+        "前缀函数"
+      ],
+      "categories": "笔记"
+    }
+  },
+  {
+    "file": "Russians.md",
+    "before": {
+      "title": "Method of Four Russians",
+      "tags": [
+        "笛卡尔树",
+        "st表",
+        "RMQ"
+      ],
+      "categories": "笔记"
+    },
+    "after": {
+      "title": "四毛子算法（Method of Four Russians）：线性预处理 RMQ",
+      "tags": [
+        "RMQ",
+        "笛卡尔树",
+        "ST 表",
+        "分块",
+        "状态压缩",
+        "LCA"
+      ],
+      "categories": "笔记"
+    }
+  },
+  {
+    "file": "Set和multiset.md",
+    "before": {
+      "title": "Set 和 multiset",
+      "tags": [
+        "STL",
+        "set",
+        "multiset"
+      ],
+      "categories": "笔记"
+    },
+    "after": {
+      "title": "C++ STL：set 与 multiset 用法",
+      "tags": [
+        "C++",
+        "STL",
+        "有序集合"
+      ],
+      "categories": "笔记"
+    }
+  },
+  {
+    "file": "UVA1316.md",
+    "before": {
+      "title": "UVA1316 Supermarket",
+      "tags": "优先队列",
+      "categories": "题解"
+    },
+    "after": {
+      "title": "UVA1316 Supermarket 题解",
+      "tags": [
+        "贪心",
+        "优先队列",
+        "排序"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "acwing5471.md",
+    "before": {
+      "title": "【CSP 202312】树上搜索",
+      "tags": [
+        "set",
+        "二分"
+      ],
+      "categories": "题解"
+    },
+    "after": {
+      "title": "CSP 2023-12 树上搜索题解",
+      "tags": [
+        "树",
+        "有序集合",
+        "二分查找"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "bnuzh-weekmatch-1.md",
+    "before": {
+      "title": "2025 bnuzh 周赛-1",
+      "tags": [],
+      "categories": ""
+    },
+    "after": {
+      "title": "BNUZH-ACM 周赛第 1 场题解",
+      "tags": [
+        "BNUZH-ACM",
+        "模拟",
+        "预处理"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "bnuzh-weekmatch-10.md",
+    "before": {
+      "title": "bnuzh-weekmatch-10",
+      "tags": [],
+      "categories": ""
+    },
+    "after": {
+      "title": "BNUZH-ACM 周赛第 10 场题解",
+      "tags": [
+        "BNUZH-ACM",
+        "双指针",
+        "搜索",
+        "栈",
+        "数论",
+        "数位 DP"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "bnuzh-weekmatch-2.md",
+    "before": {
+      "title": "2025 bnuzh 周赛-2",
+      "tags": [],
+      "categories": ""
+    },
+    "after": {
+      "title": "BNUZH-ACM 周赛第 2 场题解",
+      "tags": [
+        "BNUZH-ACM",
+        "模拟",
+        "DFS",
+        "BFS",
+        "构造"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "bnuzh-weekmatch-3.md",
+    "before": {
+      "title": "2025 bnuzh 周赛-3",
+      "tags": [],
+      "categories": ""
+    },
+    "after": {
+      "title": "BNUZH-ACM 周赛第 3 场题解",
+      "tags": [
+        "BNUZH-ACM",
+        "动态规划",
+        "背包 DP",
+        "前缀和"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "bnuzh-weekmatch-4.md",
+    "before": {
+      "title": "2025 bnuzh 周赛-4",
+      "tags": [],
+      "categories": ""
+    },
+    "after": {
+      "title": "BNUZH-ACM 周赛第 4 场题解",
+      "tags": [
+        "BNUZH-ACM",
+        "贪心",
+        "二分答案",
+        "前缀和",
+        "字符串"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "bnuzh-weekmatch-5.md",
+    "before": {
+      "title": "bnuzh 2025 周赛-5",
+      "tags": [],
+      "categories": ""
+    },
+    "after": {
+      "title": "BNUZH-ACM 周赛第 5 场题解",
+      "tags": [
+        "BNUZH-ACM",
+        "模拟",
+        "并查集",
+        "贪心",
+        "优先队列"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "bnuzh-weekmatch-6.md",
+    "before": {
+      "title": "2025 bnuzh 周赛-6",
+      "tags": [],
+      "categories": ""
+    },
+    "after": {
+      "title": "BNUZH-ACM 周赛第 6 场题解",
+      "tags": [
+        "BNUZH-ACM",
+        "构造",
+        "数论",
+        "位运算",
+        "博弈论"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "bnuzh-weekmatch-7.md",
+    "before": {
+      "title": "bnuzh_weekmatch_7",
+      "tags": [],
+      "categories": ""
+    },
+    "after": {
+      "title": "BNUZH-ACM 周赛第 7 场题解",
+      "tags": [
+        "BNUZH-ACM",
+        "位运算",
+        "差分",
+        "背包 DP"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "bnuzh-weekmatch-9.md",
+    "before": {
+      "title": "bnuzh-weekmatch-9",
+      "tags": [],
+      "categories": ""
+    },
+    "after": {
+      "title": "BNUZH-ACM 周赛第 9 场题解",
+      "tags": [
+        "BNUZH-ACM",
+        "贪心",
+        "并查集",
+        "最短路",
+        "博弈论"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "hdu20240807.md",
+    "before": {
+      "title": "HDU7528 cats 的电脑中毒",
+      "tags": "贪心",
+      "categories": "题解"
+    },
+    "after": {
+      "title": "HDU7528 cats 的电脑中毒题解",
+      "tags": [
+        "贪心",
+        "位运算",
+        "字符串"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "hdu7523.md",
+    "before": {
+      "title": "HDU7523 cats 的 k-xor",
+      "tags": "数论",
+      "categories": "题解"
+    },
+    "after": {
+      "title": "HDU7523 cats 的 k-xor 题解",
+      "tags": [
+        "数论",
+        "进制",
+        "约数"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "hufuyezhong.md",
+    "before": {
+      "title": "【原神】 胡芙夜钟",
+      "tags": [
+        "原神",
+        "胡桃",
+        "深渊"
+      ],
+      "categories": "游戏"
+    },
+    "after": {
+      "title": "原神胡芙夜钟：队伍配置与输出手法",
+      "tags": [
+        "原神",
+        "胡桃",
+        "配队",
+        "输出手法",
+        "深渊"
+      ],
+      "categories": "游戏"
+    }
+  },
+  {
+    "file": "luoguP10893.md",
+    "before": {
+      "title": "luoguP10893 城市化发展委员会",
+      "tags": "数论",
+      "categories": "题解"
+    },
+    "after": {
+      "title": "洛谷 P10893 城市化发展委员会题解",
+      "tags": [
+        "数论",
+        "快速幂",
+        "欧拉定理"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "luoguP10894.md",
+    "before": {
+      "title": "luoguP10894 虚树",
+      "tags": [
+        "dp",
+        "exgcd"
+      ],
+      "categories": "题解"
+    },
+    "after": {
+      "title": "洛谷 P10894 虚树题解",
+      "tags": [
+        "树形 DP",
+        "计数 DP",
+        "乘法逆元",
+        "扩展欧几里得算法"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "luoguP1470.md",
+    "before": {
+      "title": "USACO2.3 最长前缀 Longest Prefix",
+      "tags": [
+        "KMP",
+        "字符串",
+        "dp"
+      ],
+      "categories": "题解"
+    },
+    "after": {
+      "title": "洛谷 P1470 最长前缀（Longest Prefix）题解",
+      "tags": [
+        "KMP",
+        "字符串",
+        "动态规划"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "luoguP2391.md",
+    "before": {
+      "title": "luoguP2391 白雪皑皑",
+      "tags": "链表",
+      "categories": "题解"
+    },
+    "after": {
+      "title": "洛谷 P2391 白雪皑皑题解",
+      "tags": [
+        "链表",
+        "离线处理",
+        "区间染色"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "prob2025.md",
+    "before": {
+      "title": "概率论 笔记",
+      "tags": [
+        "数学",
+        "概率论"
+      ],
+      "categories": "笔记"
+    },
+    "after": {
+      "title": "概率论复习笔记：事件与随机变量判断题",
+      "tags": [
+        "概率论",
+        "随机变量",
+        "复习笔记"
+      ],
+      "categories": "笔记"
+    }
+  },
+  {
+    "file": "question-resource.md",
+    "before": {
+      "title": "questions_resource",
+      "tags": [],
+      "categories": "加密文章"
+    },
+    "after": {
+      "title": "算法竞赛练习题单",
+      "tags": [
+        "算法竞赛",
+        "题单"
+      ],
+      "categories": "加密文章"
+    }
+  },
+  {
+    "file": "二元一次不定方程.md",
+    "before": {
+      "title": "二元一次不定方程（exgcd）",
+      "tags": [
+        "数论",
+        "exgcd"
+      ],
+      "categories": "笔记"
+    },
+    "after": {
+      "title": "二元一次不定方程：扩展欧几里得算法与应用",
+      "tags": [
+        "数论",
+        "扩展欧几里得算法",
+        "裴蜀定理",
+        "同余方程"
+      ],
+      "categories": "笔记"
+    }
+  },
+  {
+    "file": "康托展开.md",
+    "before": {
+      "title": "康托展开",
+      "tags": [
+        "康托展开",
+        "排列组合",
+        "树状数组"
+      ],
+      "categories": "笔记"
+    },
+    "after": {
+      "title": "康托展开与逆康托展开",
+      "tags": [
+        "康托展开",
+        "排列组合",
+        "树状数组"
+      ],
+      "categories": "笔记"
+    }
+  },
+  {
+    "file": "最大公约数蓝桥杯2022.md",
+    "before": {
+      "title": "【蓝桥杯 2022 国 A】 最大公约数",
+      "tags": [
+        "数论",
+        "贪心",
+        "线段树",
+        "二分答案"
+      ],
+      "categories": "题解"
+    },
+    "after": {
+      "title": "2022 蓝桥杯国赛 A 组：最大公约数题解",
+      "tags": [
+        "蓝桥杯",
+        "最大公约数",
+        "线段树",
+        "二分答案"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "树状数组求逆序对.md",
+    "before": {
+      "title": "树状数组求逆序对",
+      "tags": [
+        "树状数组",
+        "逆序对"
+      ],
+      "categories": "笔记"
+    },
+    "after": {
+      "title": "树状数组求逆序对：离散化与计数",
+      "tags": [
+        "树状数组",
+        "逆序对",
+        "离散化"
+      ],
+      "categories": "笔记"
+    }
+  },
+  {
+    "file": "根号分治-1.md",
+    "before": {
+      "title": "根号分治",
+      "tags": "根号分治",
+      "categories": "笔记"
+    },
+    "after": {
+      "title": "根号分治：阈值划分与例题",
+      "tags": [
+        "根号分治",
+        "动态规划",
+        "离线处理",
+        "二分答案"
+      ],
+      "categories": "笔记"
+    }
+  },
+  {
+    "file": "模拟退火.md",
+    "before": {
+      "title": "模拟退火",
+      "tags": "模拟退火",
+      "categories": "笔记"
+    },
+    "after": {
+      "title": "模拟退火：算法流程、调参与例题",
+      "tags": [
+        "模拟退火",
+        "随机化",
+        "最优化"
+      ],
+      "categories": "笔记"
+    }
+  },
+  {
+    "file": "笛卡尔树.md",
+    "before": {
+      "title": "笛卡尔树",
+      "tags": [
+        "笛卡尔树",
+        "堆",
+        "二叉查找树"
+      ],
+      "categories": "笔记"
+    },
+    "after": {
+      "title": "笛卡尔树：性质、单调栈建树与应用",
+      "tags": [
+        "笛卡尔树",
+        "单调栈",
+        "堆",
+        "二叉搜索树"
+      ],
+      "categories": "笔记"
+    }
+  },
+  {
+    "file": "线性基.md",
+    "before": {
+      "title": "线性基",
+      "tags": [
+        "线性基"
+      ],
+      "categories": "笔记"
+    },
+    "after": {
+      "title": "异或线性基：构造、最大异或和与可表示性查询",
+      "tags": [
+        "线性基",
+        "位运算",
+        "贪心"
+      ],
+      "categories": "笔记"
+    }
+  },
+  {
+    "file": "网络流模板.md",
+    "before": {
+      "title": "网络流模板",
+      "tags": [
+        "网络流",
+        "最大流",
+        "费用流"
+      ],
+      "categories": "笔记"
+    },
+    "after": {
+      "title": "网络流模板：最大流与最小费用最大流",
+      "tags": [
+        "网络流",
+        "最大流",
+        "最小费用最大流",
+        "Dinic"
+      ],
+      "categories": "笔记"
+    }
+  },
+  {
+    "file": "质数筛法.md",
+    "before": {
+      "title": "质数筛法",
+      "tags": [
+        "数论",
+        "质数筛法"
+      ],
+      "categories": "笔记"
+    },
+    "after": {
+      "title": "质数筛法：埃氏筛与线性筛",
+      "tags": [
+        "数论",
+        "质数筛法",
+        "线性筛"
+      ],
+      "categories": "笔记"
+    }
+  },
+  {
+    "file": "选素数.md",
+    "before": {
+      "title": "题解 [蓝桥杯 2022 国 A] 选素数",
+      "tags": [
+        "线性筛"
+      ],
+      "categories": "题解"
+    },
+    "after": {
+      "title": "2022 蓝桥杯国赛 A 组：选素数题解",
+      "tags": [
+        "蓝桥杯",
+        "数论",
+        "线性筛",
+        "质因数分解"
+      ],
+      "categories": "题解"
+    }
+  },
+  {
+    "file": "错排问题.md",
+    "before": {
+      "title": "错排问题",
+      "tags": [
+        "排列组合"
+      ],
+      "categories": "笔记"
+    },
+    "after": {
+      "title": "错排问题：递推关系与通项公式",
+      "tags": [
+        "排列组合",
+        "递推",
+        "错排"
+      ],
+      "categories": "笔记"
+    }
+  }
+]

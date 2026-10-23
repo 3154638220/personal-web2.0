@@ -1,0 +1,15 @@
+{
+  "date": "2026-10-22T12:59:14.144Z",
+  "base": "https://www.qianianxy.cn",
+  "checks": [
+    "Production article metadata matches the build",
+    "320px: left desktop TOC or collapsed mobile TOC, no overflow",
+    "375px: left desktop TOC or collapsed mobile TOC, no overflow",
+    "768px: left desktop TOC or collapsed mobile TOC, no overflow",
+    "801px: left desktop TOC or collapsed mobile TOC, no overflow",
+    "1024px: left desktop TOC or collapsed mobile TOC, no overflow",
+    "1440px: left desktop TOC or collapsed mobile TOC, no overflow",
+    "New BNUZH-ACM tag returns all nine weekly contest reports",
+    "TOC links scroll to sections and highlight the active section"
+  ]
+}

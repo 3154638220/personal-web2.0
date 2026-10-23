@@ -1,0 +1,12 @@
+{
+  "url": "https://www.qianianxy.cn",
+  "release": "/var/www/qianianxy-releases/20261022T131951Z-2065018",
+  "backup": "/var/backups/qianianxy/20261022T131951Z-2065018",
+  "rollback": "sudo bash /home/ubuntu/web2.0/deploy/rollback.sh /var/backups/qianianxy/20261022T131951Z-2065018",
+  "publicArticles": 83,
+  "changes": [
+    "代码复制按钮使用纯图标，成功变为勾，失败为重试图标；保留无障碍标签",
+    "左侧目录改为无衬线字体、增大字号行距、细线标记当前章节",
+    "隐藏原神胡芙夜钟文章，保留 Markdown 源码并移出全部公开产物"
+  ]
+}

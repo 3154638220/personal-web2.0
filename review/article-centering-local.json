@@ -1,0 +1,196 @@
+{
+  "date": "2026-10-23T05:16:17.732Z",
+  "noToc": null,
+  "results": [
+    {
+      "file": "线性基.html",
+      "width": 320,
+      "body": {
+        "left": 20,
+        "right": 300,
+        "width": 280,
+        "center": 160,
+        "top": 518.28125
+      },
+      "toc": {
+        "left": 20,
+        "right": 300,
+        "width": 280,
+        "center": 160,
+        "top": 438.78125
+      },
+      "open": false
+    },
+    {
+      "file": "线性基.html",
+      "width": 375,
+      "body": {
+        "left": 20,
+        "right": 355,
+        "width": 335,
+        "center": 187.5,
+        "top": 471.78125
+      },
+      "toc": {
+        "left": 20,
+        "right": 355,
+        "width": 335,
+        "center": 187.5,
+        "top": 392.28125
+      },
+      "open": false
+    },
+    {
+      "file": "线性基.html",
+      "width": 768,
+      "body": {
+        "left": 24,
+        "right": 744,
+        "width": 720,
+        "center": 384,
+        "top": 560.5625
+      },
+      "toc": {
+        "left": 24,
+        "right": 744,
+        "width": 720,
+        "center": 384,
+        "top": 481.0625
+      },
+      "open": false
+    },
+    {
+      "file": "线性基.html",
+      "width": 801,
+      "body": {
+        "left": 40.5,
+        "right": 760.5,
+        "width": 720,
+        "center": 400.5,
+        "top": 495.5625
+      },
+      "toc": {
+        "left": 40.5,
+        "right": 760.5,
+        "width": 720,
+        "center": 400.5,
+        "top": 416.0625
+      },
+      "open": false
+    },
+    {
+      "file": "线性基.html",
+      "width": 1024,
+      "body": {
+        "left": 152,
+        "right": 872,
+        "width": 720,
+        "center": 512,
+        "top": 561.125
+      },
+      "toc": {
+        "left": 152,
+        "right": 872,
+        "width": 720,
+        "center": 512,
+        "top": 481.625
+      },
+      "open": false
+    },
+    {
+      "file": "线性基.html",
+      "width": 1199,
+      "body": {
+        "left": 239.5,
+        "right": 959.5,
+        "width": 720,
+        "center": 599.5,
+        "top": 580.03125
+      },
+      "toc": {
+        "left": 239.5,
+        "right": 959.5,
+        "width": 720,
+        "center": 599.5,
+        "top": 500.53125
+      },
+      "open": false
+    },
+    {
+      "file": "线性基.html",
+      "width": 1200,
+      "body": {
+        "left": 240,
+        "right": 960,
+        "width": 720,
+        "center": 600,
+        "top": 500.65625
+      },
+      "toc": {
+        "left": 56,
+        "right": 205,
+        "width": 149,
+        "center": 130.5,
+        "top": 500.65625
+      },
+      "open": true
+    },
+    {
+      "file": "线性基.html",
+      "width": 1280,
+      "body": {
+        "left": 280,
+        "right": 1000,
+        "width": 720,
+        "center": 640,
+        "top": 509.28125
+      },
+      "toc": {
+        "left": 56,
+        "right": 245,
+        "width": 189,
+        "center": 150.5,
+        "top": 509.28125
+      },
+      "open": true
+    },
+    {
+      "file": "线性基.html",
+      "width": 1440,
+      "body": {
+        "left": 360,
+        "right": 1080,
+        "width": 720,
+        "center": 720,
+        "top": 518.0625
+      },
+      "toc": {
+        "left": 120,
+        "right": 325,
+        "width": 205,
+        "center": 222.5,
+        "top": 518.0625
+      },
+      "open": true
+    },
+    {
+      "file": "线性基.html",
+      "width": 1920,
+      "body": {
+        "left": 600,
+        "right": 1320,
+        "width": 720,
+        "center": 960,
+        "top": 518.0625
+      },
+      "toc": {
+        "left": 360,
+        "right": 565,
+        "width": 205,
+        "center": 462.5,
+        "top": 518.0625
+      },
+      "open": true
+    }
+  ]
+}

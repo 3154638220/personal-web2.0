@@ -1,0 +1,30 @@
+{
+  "release": "20261023T070432Z-2310656",
+  "checks": [
+    {
+      "url": "https://www.qianianxy.cn/",
+      "matches_build": true,
+      "sha256": "e452bb452917e13fa802660186a0ad8e7c66f24e2112da3fa57ac0c57ec8533b"
+    },
+    {
+      "url": "https://www.qianianxy.cn/posts.json",
+      "matches_build": true,
+      "sha256": "0a299ac5676c74e40dcb211d4a61af70fa8e41450e8e280c543ec2a14763f0ca"
+    },
+    {
+      "url": "https://www.qianianxy.cn/articles/KMP.html",
+      "matches_build": true,
+      "sha256": "b9e9b62e224f3bff31d96f26fc189217f90d11743fcb6a4252bb2edf1488c831"
+    },
+    {
+      "url": "https://www.qianianxy.cn/assets/style.4f21b261db.css",
+      "matches_build": true,
+      "sha256": "4f21b261db7430610ed3532cf053a9d77d13a4d286c2dab655c28d7ca4c78f30"
+    },
+    {
+      "url": "https://www.qianianxy.cn/assets/app.9785dae6ce.js",
+      "matches_build": true,
+      "sha256": "9785dae6cec7c592880f9d77ed845f4b70300a18e8f699498dffc742f8223a01"
+    }
+  ]
+}

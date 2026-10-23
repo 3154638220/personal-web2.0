@@ -1,0 +1,32 @@
+{
+  "date": "2026-10-23T05:21:28.120Z",
+  "url": "https://www.qianianxy.cn",
+  "release": "/var/www/qianianxy-releases/20261023T052114Z-2286143",
+  "backup": "/var/backups/qianianxy/20261023T052114Z-2286143",
+  "results": [
+    {
+      "width": 375,
+      "bodyWidth": 335,
+      "center": 187.5,
+      "overflow": false,
+      "sidebarLeft": false,
+      "tocOpen": false
+    },
+    {
+      "width": 1024,
+      "bodyWidth": 720,
+      "center": 512,
+      "overflow": false,
+      "sidebarLeft": false,
+      "tocOpen": false
+    },
+    {
+      "width": 1440,
+      "bodyWidth": 720,
+      "center": 720,
+      "overflow": false,
+      "sidebarLeft": true,
+      "tocOpen": true
+    }
+  ]
+}

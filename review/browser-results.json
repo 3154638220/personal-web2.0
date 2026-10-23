@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-23T07:03:56.222Z",
+  "base": "http://127.0.0.1:8082",
+  "checks": [
+    "Pagination, count and reload persistence",
+    "Category + tag + query combinations, empty state and reset",
+    "Full-text code search",
+    "Oldest-first ordering",
+    "Bilingual UI, dark theme and preference persistence",
+    "Mobile navigation and Escape focus behavior",
+    "Mobile TOC, clipboard and reading progress",
+    "Desktop left sticky TOC and 720px body",
+    "375px: five pages, light/dark screenshots, no page overflow",
+    "768px: five pages, light/dark screenshots, no page overflow",
+    "1440px: five pages, light/dark screenshots, no page overflow",
+    "All 83 articles: mobile overflow and formula checks",
+    "No JavaScript: full static archive and article body",
+    "Search-index failure degrades to metadata search"
+  ],
+  "errors": [],
+  "screenshots": 51
+}
